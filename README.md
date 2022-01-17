@@ -1,4 +1,8 @@
+<img alt="Gift Coding" src="https://giphy.com/embed/16bishkovqEjZPmSEe/video" align="right">
+
 ### Hi there 👋
+I'm [Jeff](https://www.linkedin.com/in/jefflucio/), a creative developer, passionate about Open Source, and Information security, I like to explore new technologies.
+You can shoot me an email at erlanlucio@hotmail.com I'll try to respond as soon as I can.
 
 <!--
 **jlsjefferson/jlsjefferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
