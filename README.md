@@ -8,8 +8,8 @@ You can shoot me an email at jlsjefferson@gmail.com I'll try to respond as soon 
 <img align="center" alt="Javascript" height="40" width="40" src="./assets/icons/js.svg">
 <img align="center" alt="Typecript" height="40" width="40" src="./assets/icons/ts.svg">
 <img align="center" alt="NodeJS" height="40" width="40" src="./assets/icons/nodejs.svg">
-<img align="center" alt="Python" height="40" width="40" src="./assets/icons/python.svg">
-<img align="center" alt="Airflow" height="40" width="40" src="./assets/icons/reactjs.svg">
+<img align="center" alt="Python" height="60" width="40" src="./assets/icons/python.svg">
+<img align="center" alt="Airflow" height="40" width="40" src="./assets/icons/airflow.svg">
 <img align="center" alt="Docker" height="40" width="40" src="./assets/icons/docker.svg">
 <img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/mongodb.svg">
 <img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sql.svg">
