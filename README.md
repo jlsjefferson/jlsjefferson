@@ -60,6 +60,6 @@ Sou Arquiteto de Software apaixonado por construir sistemas **escaláveis, resil
 
 ### 🚀 DevOps
 
-`Git` · `GitFlow` · `CI/CD` · `Docker` · `Deploy`
+`Git` · `GitFlow` · `CI/CD` · `Docker`
 
 ---
